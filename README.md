@@ -25,7 +25,7 @@ SQLite for database
 
 ```text
 /
-├── README.md             # This file
+├── README.md           
 ├── index.php             # Registration form & form handling
 ├── view_users.php        # Page to display registered users
 ├── data.sqlite           # SQLite database storing registrations
@@ -48,6 +48,3 @@ SQLite for database
       http://localhost/Registration-Form/index.php
 
 ```
-
-
-
